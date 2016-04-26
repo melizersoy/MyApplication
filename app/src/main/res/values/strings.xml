@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GATHER</string>
+    <array name="cities">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+    </array>
+
+    <array name="types">
+        <item>Konser</item>
+        <item>Tiyatro</item>
+        <item>Sergi</item>
+    </array>
+
+    <array name="ankaraSDistrict">
+        <item>Çankaya</item>
+        <item>Keçiören</item>,
+        <item>Mamak</item>
+    </array>
+
+</resources>
